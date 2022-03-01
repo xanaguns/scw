@@ -1,0 +1,7 @@
+1. 새차원 : 새차원의 코틀린 코루틴 강좌
+https://www.youtube.com/playlist?list=PLbJr8hAHHCP5N6Lsot8SAnC28SoxwAU5A
+
+2. Kotlin 공식 홈페이지의 couroutin 가이드
+\scw\kotlin_coroutine\kotlinx.coroutines-master
+https://kotlinlang.org/docs/coroutines-basics.html
+https://github.com/Kotlin/kotlinx.coroutines
