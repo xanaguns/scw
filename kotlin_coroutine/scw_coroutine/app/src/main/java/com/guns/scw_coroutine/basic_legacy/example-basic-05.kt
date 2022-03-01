@@ -3,7 +3,7 @@
  */
 
 // This file was automatically generated from basics.md by Knit tool. Do not edit.
-package kotlinx.coroutines.guide.exampleBasic05
+package com.guns.scw_coroutine.basic_legacy
 
 import kotlinx.coroutines.*
 
